@@ -3,4 +3,4 @@ Personal Portfolio Website
 
 
 
-**  The Project is Under Development, But you can out my latest project BMIWellTips. **
+### -- The Project is Under Development, But you can check out my latest project BMIWellTips. --
